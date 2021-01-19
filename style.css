@@ -1,0 +1,20 @@
+body {
+    background-color: 1595714941_21-p-fon-zelenie-listya-28.jpg;
+}
+#flex{
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #ffffff;
+}
+main {
+    background-color: #FFA500;
+}
+h1 {
+    color: #008000;
+}
+h1 {
+    background-color: #FFA500;
+}
